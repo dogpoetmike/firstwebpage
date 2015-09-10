@@ -1,0 +1,21 @@
+p.intro {
+  background-color: pink;
+  width: 50%;
+  font-style:italic;
+}
+p.author {
+  border: 5px solid;
+  padding: 10px;
+  margin: 50px;
+  background-color: green;
+  font-style: italic;
+  font-weight: bold;
+}
+.bold {
+  font-weight: bold;
+  font-size: 36pt;
+}
+.important {
+  font-size: 16pt;
+  line-height: 24pt;
+}
