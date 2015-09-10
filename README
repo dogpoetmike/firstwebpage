@@ -1,2 +1,49 @@
-* Add Git Init to project respository
-*
+
+================================================
+Mike McAllister’s First Web Page for Code Review
+================================================
+
+This website was created by Mike McAllister
+mikemcallister@mac.com
+Repository can be found at:
+https://github.com/dogpoetmike/firstwebpage
+Created: August 2015
+
+===========
+Description
+===========
+
+This website was initially created while working
+solo with Epicodus’s “Learn How to Program” website
+before beginning the Intro to Programming class.
+
+Files were altered and amended to satisfy the
+requirements for the first Code Review.
+
+===================
+Set-Up Instructions
+===================
+
+Project should be visible using any common web browser.
+
+Copyright (c) 2015 **_Mike McAllister_**
+
+This software is licensed under the MIT license.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
